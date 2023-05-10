@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>F5784142-3F20-4DC0-8B93-737B40E52C6D</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\AppX</LayoutDir>
+    <LayoutDir>D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>03FC91C73615C10B5C1A4145B7B3E18F4CCF8B68901264C7BB972A7017C3A1F4</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>F5784142-3F20-4DC0-8B93-737B40E52C6D_1.0.0.0_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>F5784142-3F20-4DC0-8B93-737B40E52C6D_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,28 +26,28 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-08T12:51:08.890</Modified>
+      <Modified>2023-05-10T14:16:37.173</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\resources.pri">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-05-08T12:51:08.398</Modified>
+      <Modified>2023-05-10T14:16:36.705</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.runtimeconfig.json">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.runtimeconfig.json">
       <PackagePath>MonkeyFinder.runtimeconfig.json</PackagePath>
-      <Modified>2023-05-08T12:51:07.993</Modified>
+      <Modified>2023-05-10T13:58:01.106</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.dll">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.dll">
       <PackagePath>MonkeyFinder.dll</PackagePath>
-      <Modified>2023-05-08T12:51:02.285</Modified>
+      <Modified>2023-05-10T14:16:35.651</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\apphost.exe">
       <PackagePath>MonkeyFinder.exe</PackagePath>
-      <Modified>2023-05-08T12:51:02.371</Modified>
+      <Modified>2023-05-10T14:16:35.732</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jinglex\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.3\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -921,9 +921,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-11-08T19:31:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.deps.json">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.deps.json">
       <PackagePath>MonkeyFinder.deps.json</PackagePath>
-      <Modified>2023-05-08T12:51:08.619</Modified>
+      <Modified>2023-05-10T14:16:37.037</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.59\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -937,245 +937,245 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-01-19T15:16:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2023-05-08T12:40:46.537</Modified>
+      <Modified>2023-05-10T12:45:43.177</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\Resources\Raw\monkeydata.json">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\Resources\Raw\monkeydata.json">
       <PackagePath>monkeydata.json</PackagePath>
-      <Modified>2023-05-08T12:40:46.537</Modified>
+      <Modified>2023-05-10T12:45:43.178</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-100.png">
       <PackagePath>appiconfgSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.327</Modified>
+      <Modified>2023-05-10T13:55:49.952</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-125.png">
       <PackagePath>appiconfgSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.343</Modified>
+      <Modified>2023-05-10T13:55:49.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-150.png">
       <PackagePath>appiconfgSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.364</Modified>
+      <Modified>2023-05-10T13:55:49.987</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-200.png">
       <PackagePath>appiconfgSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.401</Modified>
+      <Modified>2023-05-10T13:55:50.019</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-400.png">
       <PackagePath>appiconfgSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.531</Modified>
+      <Modified>2023-05-10T13:55:50.146</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2023-05-08T12:40:46.536</Modified>
+      <Modified>2023-05-10T12:45:43.176</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-05-08T12:51:01.600</Modified>
+      <Modified>2023-05-10T13:55:50.179</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.892</Modified>
+      <Modified>2023-05-10T13:55:50.408</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.904</Modified>
+      <Modified>2023-05-10T13:55:50.419</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.914</Modified>
+      <Modified>2023-05-10T13:55:50.429</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.932</Modified>
+      <Modified>2023-05-10T13:55:50.446</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.998</Modified>
+      <Modified>2023-05-10T13:55:50.511</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.685</Modified>
+      <Modified>2023-05-10T13:55:50.243</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.688</Modified>
+      <Modified>2023-05-10T13:55:50.246</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.703</Modified>
+      <Modified>2023-05-10T13:55:50.259</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.691</Modified>
+      <Modified>2023-05-10T13:55:50.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.696</Modified>
+      <Modified>2023-05-10T13:55:50.252</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.664</Modified>
+      <Modified>2023-05-10T13:55:50.226</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.668</Modified>
+      <Modified>2023-05-10T13:55:50.229</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.681</Modified>
+      <Modified>2023-05-10T13:55:50.241</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.671</Modified>
+      <Modified>2023-05-10T13:55:50.231</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.674</Modified>
+      <Modified>2023-05-10T13:55:50.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.619</Modified>
+      <Modified>2023-05-10T13:55:50.192</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.623</Modified>
+      <Modified>2023-05-10T13:55:50.195</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.628</Modified>
+      <Modified>2023-05-10T13:55:50.198</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.633</Modified>
+      <Modified>2023-05-10T13:55:50.201</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.638</Modified>
+      <Modified>2023-05-10T13:55:50.206</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.642</Modified>
+      <Modified>2023-05-10T13:55:50.209</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.645</Modified>
+      <Modified>2023-05-10T13:55:50.212</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.660</Modified>
+      <Modified>2023-05-10T13:55:50.224</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.648</Modified>
+      <Modified>2023-05-10T13:55:50.214</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.652</Modified>
+      <Modified>2023-05-10T13:55:50.217</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.756</Modified>
+      <Modified>2023-05-10T13:55:50.301</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.762</Modified>
+      <Modified>2023-05-10T13:55:50.306</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.770</Modified>
+      <Modified>2023-05-10T13:55:50.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.780</Modified>
+      <Modified>2023-05-10T13:55:50.321</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.798</Modified>
+      <Modified>2023-05-10T13:55:50.337</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.727</Modified>
+      <Modified>2023-05-10T13:55:50.279</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.731</Modified>
+      <Modified>2023-05-10T13:55:50.282</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.735</Modified>
+      <Modified>2023-05-10T13:55:50.286</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.742</Modified>
+      <Modified>2023-05-10T13:55:50.289</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.751</Modified>
+      <Modified>2023-05-10T13:55:50.297</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.706</Modified>
+      <Modified>2023-05-10T13:55:50.262</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.710</Modified>
+      <Modified>2023-05-10T13:55:50.264</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.713</Modified>
+      <Modified>2023-05-10T13:55:50.268</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.717</Modified>
+      <Modified>2023-05-10T13:55:50.271</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.724</Modified>
+      <Modified>2023-05-10T13:55:50.276</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.806</Modified>
+      <Modified>2023-05-10T13:55:50.342</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.822</Modified>
+      <Modified>2023-05-10T13:55:50.348</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.834</Modified>
+      <Modified>2023-05-10T13:55:50.356</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.847</Modified>
+      <Modified>2023-05-10T13:55:50.368</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.883</Modified>
+      <Modified>2023-05-10T13:55:50.400</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.661</Modified>
+      <Modified>2023-05-10T13:55:50.178</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.692</Modified>
+      <Modified>2023-05-10T13:55:50.207</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.736</Modified>
+      <Modified>2023-05-10T13:55:50.247</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-05-08T12:51:01.805</Modified>
+      <Modified>2023-05-10T13:55:50.308</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-05-08T12:51:02.025</Modified>
+      <Modified>2023-05-10T13:55:50.509</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\nodata.scale-100.png">
+    <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\nodata.scale-100.png">
       <PackagePath>nodata.scale-100.png</PackagePath>
-      <Modified>2023-05-08T12:40:46.536</Modified>
+      <Modified>2023-05-10T12:45:43.177</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
