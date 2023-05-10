@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Faw2YRVNQRSQ7ljEgNZfk7F7195NkOI1MOGP8ioX+hxWrcH8ohHCVBIYA3TqicW9X8DFBYZGhbAgoPp2lqPNPg==",
+  "dgSpecHash": "uGyWF4Jg88+2f787tfk2uiZPqrold5mqRIROk/qZsfihlWsiYRqVoJuUJr1rp2hhQBWdVDAj7ybcrsHeEkIIkQ==",
   "success": true,
-  "projectFilePath": "D:\\Dev Projects\\School\\MAUI_workshop\\Part 1 - Displaying Data\\MonkeyFinder\\MonkeyFinder.csproj",
+  "projectFilePath": "D:\\Dev Projects\\School\\maui_git_workshop\\Part 1 - Displaying Data\\MonkeyFinder\\MonkeyFinder.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jinglex\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",
     "C:\\Users\\Jinglex\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",

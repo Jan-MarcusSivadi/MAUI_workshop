@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev Projects\\School\\MAUI_workshop\\Part 1 - Displaying Data\\MonkeyFinder\\MonkeyFinder.csproj": {}
+    "D:\\Dev Projects\\School\\maui_git_workshop\\Part 1 - Displaying Data\\MonkeyFinder\\MonkeyFinder.csproj": {}
   },
   "projects": {
-    "D:\\Dev Projects\\School\\MAUI_workshop\\Part 1 - Displaying Data\\MonkeyFinder\\MonkeyFinder.csproj": {
+    "D:\\Dev Projects\\School\\maui_git_workshop\\Part 1 - Displaying Data\\MonkeyFinder\\MonkeyFinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev Projects\\School\\MAUI_workshop\\Part 1 - Displaying Data\\MonkeyFinder\\MonkeyFinder.csproj",
+        "projectUniqueName": "D:\\Dev Projects\\School\\maui_git_workshop\\Part 1 - Displaying Data\\MonkeyFinder\\MonkeyFinder.csproj",
         "projectName": "MonkeyFinder",
-        "projectPath": "D:\\Dev Projects\\School\\MAUI_workshop\\Part 1 - Displaying Data\\MonkeyFinder\\MonkeyFinder.csproj",
+        "projectPath": "D:\\Dev Projects\\School\\maui_git_workshop\\Part 1 - Displaying Data\\MonkeyFinder\\MonkeyFinder.csproj",
         "packagesPath": "C:\\Users\\Jinglex\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev Projects\\School\\MAUI_workshop\\Part 1 - Displaying Data\\MonkeyFinder\\obj\\",
+        "outputPath": "D:\\Dev Projects\\School\\maui_git_workshop\\Part 1 - Displaying Data\\MonkeyFinder\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

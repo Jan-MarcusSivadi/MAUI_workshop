@@ -12,27 +12,27 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = MonkeyFinder
-build_property.ProjectDir = D:\Dev Projects\School\MAUI_workshop\Part 1 - Displaying Data\MonkeyFinder\
+build_property.ProjectDir = D:\Dev Projects\School\maui_git_workshop\Part 1 - Displaying Data\MonkeyFinder\
 
-[D:/Dev Projects/School/MAUI_workshop/Part 1 - Displaying Data/MonkeyFinder/App.xaml]
+[D:/Dev Projects/School/maui_git_workshop/Part 1 - Displaying Data/MonkeyFinder/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/Dev Projects/School/MAUI_workshop/Part 1 - Displaying Data/MonkeyFinder/AppShell.xaml]
+[D:/Dev Projects/School/maui_git_workshop/Part 1 - Displaying Data/MonkeyFinder/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/Dev Projects/School/MAUI_workshop/Part 1 - Displaying Data/MonkeyFinder/View/DetailsPage.xaml]
+[D:/Dev Projects/School/maui_git_workshop/Part 1 - Displaying Data/MonkeyFinder/View/DetailsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.View.DetailsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\DetailsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\DetailsPage.xaml
 
-[D:/Dev Projects/School/MAUI_workshop/Part 1 - Displaying Data/MonkeyFinder/View/MainPage.xaml]
+[D:/Dev Projects/School/maui_git_workshop/Part 1 - Displaying Data/MonkeyFinder/View/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.View.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\MainPage.xaml
