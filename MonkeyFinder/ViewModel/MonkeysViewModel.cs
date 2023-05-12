@@ -10,6 +10,9 @@ public partial class MonkeysViewModel : BaseViewModel
     {
         Title = "Monkey Finder";
         this.monkeyService = monkeyService;
+
+        CancellationToken cancellationToken = new();
+        GetMonkeysAsync().WaitAsync(cancellationToken);
     }
 
     [RelayCommand]
