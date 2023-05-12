@@ -4,5 +4,17 @@
         <name>MonkeyFinder</name>
     </assembly>
     <members>
+        <member name="P:MonkeyFinder.ViewModel.BaseViewModel.IsBusy">
+            <inheritdoc cref="F:MonkeyFinder.ViewModel.BaseViewModel.isBusy"/>
+        </member>
+        <member name="P:MonkeyFinder.ViewModel.BaseViewModel.Title">
+            <inheritdoc cref="F:MonkeyFinder.ViewModel.BaseViewModel.title"/>
+        </member>
+        <member name="F:MonkeyFinder.ViewModel.MonkeysViewModel.getMonkeysCommand">
+            <summary>The backing field for <see cref="P:MonkeyFinder.ViewModel.MonkeysViewModel.GetMonkeysCommand"/>.</summary>
+        </member>
+        <member name="P:MonkeyFinder.ViewModel.MonkeysViewModel.GetMonkeysCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MonkeyFinder.ViewModel.MonkeysViewModel.GetMonkeysAsync"/>.</summary>
+        </member>
     </members>
 </doc>
