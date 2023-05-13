@@ -27,6 +27,7 @@
                                  WidthRequest="200"
                                  HeightRequest="200">
                         <Image Source="nodata.png"
+                               Opacity="0.4"
                                HorizontalOptions="CenterAndExpand"
                                VerticalOptions="CenterAndExpand"
                                Aspect="AspectFill"/>

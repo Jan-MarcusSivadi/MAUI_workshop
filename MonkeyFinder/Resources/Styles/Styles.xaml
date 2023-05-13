@@ -36,6 +36,10 @@
         <Setter Property="FontSize" Value="20"/>
     </Style>
 
+    <Style x:Key="ExtraLargeLabel" BasedOn="{StaticResource BaseLabel}" TargetType="Label">
+        <Setter Property="FontSize" Value="25"/>
+    </Style>
+
     <Style TargetType="RefreshView" ApplyToDerivedTypes="True">
         <Setter Property="RefreshColor" Value="{StaticResource Primary}" />
     </Style>

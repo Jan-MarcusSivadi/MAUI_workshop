@@ -35,6 +35,24 @@
                 </Frame>
                 
             </Grid>
+            
+            <Grid Padding="10"
+                  ColumnSpacing="20"
+                  ColumnDefinitions="Auto"
+                  RowDefinitions="*,Auto"
+                  HorizontalOptions="Center">
+                <Label Text="{Binding Monkey.Location,StringFormat='{0}'}"
+                       Grid.Column="0"
+                       Grid.Row="1"
+                       HorizontalOptions="Center"
+                       Style="{StaticResource ExtraLargeLabel}"
+                       FontAttributes="Bold"/>
+                <Label Text="{Binding Monkey.Population, StringFormat='{0} in'}"
+                       Grid.Column="1"
+                       Grid.Row="0"
+                       HorizontalOptions="Center"
+                       Style="{StaticResource LargeLabel}"/>
+            </Grid>
 
             <Button Text="Show on Map"
                     Command="{Binding OpenMapCommand}"
@@ -43,12 +61,10 @@
                     Margin="8"
                     Style="{StaticResource ButtonOutline}"/>
 
-            <VerticalStackLayout Padding="10" Spacing="10">
+            <VerticalStackLayout Padding="40,20,40,20" Spacing="10">
                 <Label Text="{Binding Monkey.Details}" Style="{StaticResource MediumLabel}" />
-                <Label Text="{Binding Monkey.Location,StringFormat='Location: {0}'}"
-                       Style="{StaticResource SmallLabel}"/>
-                <Label Text="{Binding Monkey.Population, StringFormat='Population: {0}'}"
-                       Style="{StaticResource SmallLabel}"/>
+                
+                
             </VerticalStackLayout>
         </VerticalStackLayout>
     </ScrollView>
