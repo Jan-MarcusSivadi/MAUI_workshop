@@ -2463,7 +2463,6 @@ D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\andro
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\Xamarin.Kotlin.StdLib.Jdk8.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\Xamarin.KotlinX.Coroutines.Android.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\Xamarin.KotlinX.Coroutines.Core.Jvm.dll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\typemaps.x86_64.ll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\AndroidManifest.xml
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\AndroidManifest.xml
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\__environment__.txt
@@ -2472,7 +2471,6 @@ D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\andro
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\bin\mono.android.jar
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\static.flag
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\buildid.txt
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\environment.x86_64.ll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\src\androidx\activity\ktx\R.java
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\src\androidx\activity\R.java
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\src\androidx\annotation\experimental\R.java
@@ -2951,12 +2949,6 @@ D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\andro
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\src\mono\MonoPackageManager_Resources.java
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\bin\packaged_resources
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\src\com\companyname\monkeyfinder\R.java
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\compressed_assemblies.x86_64.ll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\typemaps.x86_64.o
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\environment.x86_64.o
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\compressed_assemblies.x86_64.o
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\jni_remap.x86_64.o
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\app_shared_libraries\x86_64\libxamarin-app.so
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\bin\classes.dex
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\bin\classes2.dex
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\stamp\_CleanIntermediateIfNeeded.stamp
@@ -2980,3 +2972,11 @@ D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\andro
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.Extensions.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Formatters.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Xml.dll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\typemaps.armeabi-v7a.ll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\environment.armeabi-v7a.ll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\compressed_assemblies.armeabi-v7a.ll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\typemaps.armeabi-v7a.o
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\environment.armeabi-v7a.o
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\compressed_assemblies.armeabi-v7a.o
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\jni_remap.armeabi-v7a.o
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\app_shared_libraries\armeabi-v7a\libxamarin-app.so

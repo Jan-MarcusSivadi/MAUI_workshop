@@ -6,10 +6,12 @@ public partial class MonkeysViewModel : BaseViewModel
     MonkeyService monkeyService;
     public ObservableCollection<Monkey> Monkeys { get; } = new();
 
-    public MonkeysViewModel(MonkeyService monkeyService)
+    IConnectivity connectivity;
+    public MonkeysViewModel(MonkeyService monkeyService, IConnectivity connectivity)
     {
         Title = "Monkey Finder";
         this.monkeyService = monkeyService;
+        this.connectivity = connectivity;
 
         CancellationToken cancellationToken = new();
         GetMonkeysAsync().WaitAsync(cancellationToken);
@@ -31,6 +33,13 @@ public partial class MonkeysViewModel : BaseViewModel
     [RelayCommand]
     async Task GetMonkeysAsync()
     {
+        if (connectivity.NetworkAccess != NetworkAccess.Internet)
+        {
+            await Shell.Current.DisplayAlert("Internet issue",
+                $"Check your connection and try again!","OK");
+            return;
+        }
+
         if(IsBusy) 
             return;
 

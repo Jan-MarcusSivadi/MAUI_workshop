@@ -49,12 +49,12 @@
             
         </CollectionView>
 
-        <!--<Button Text="Get Monkeys"
+        <Button Text="Get Monkeys"
                 Command="{Binding GetMonkeysCommand}"
                 IsEnabled="{Binding IsNotBusy}"
                 Grid.Row="1"
-                Grid.ColumnSpan="2"
-                Margin="8"/>-->
+                Grid.ColumnSpan="1"
+                Margin="8"/>
 
         <ActivityIndicator IsVisible="{Binding IsBusy}"
                            IsRunning="{Binding IsBusy}"
