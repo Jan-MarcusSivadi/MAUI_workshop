@@ -7,6 +7,9 @@
         <member name="P:MonkeyFinder.ViewModel.BaseViewModel.IsBusy">
             <inheritdoc cref="F:MonkeyFinder.ViewModel.BaseViewModel.isBusy"/>
         </member>
+        <member name="P:MonkeyFinder.ViewModel.BaseViewModel.IsRefreshing">
+            <inheritdoc cref="F:MonkeyFinder.ViewModel.BaseViewModel.isRefreshing"/>
+        </member>
         <member name="P:MonkeyFinder.ViewModel.BaseViewModel.Title">
             <inheritdoc cref="F:MonkeyFinder.ViewModel.BaseViewModel.title"/>
         </member>

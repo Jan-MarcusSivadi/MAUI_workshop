@@ -2007,14 +2007,6 @@ D:\Dev Projects\School\maui_git_workshop\Part 1 - Displaying Data\MonkeyFinder\o
 D:\Dev Projects\School\maui_git_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-android\stamp\_GenerateJavaStubs.stamp
 D:\Dev Projects\School\maui_git_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-android\stamp\_GeneratePackageManagerJava.stamp
 D:\Dev Projects\School\maui_git_workshop\Part 1 - Displaying Data\MonkeyFinder\obj\Debug\net7.0-android\stamp\_ResolveLibraryProjectImports.stamp
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-android\MonkeyFinder.runtimeconfig.json
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-android\MonkeyFinder.dll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-android\MonkeyFinder.pdb
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-android\com.companyname.monkeyfinder.apk
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-android\com.companyname.monkeyfinder.aab
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-android\com.companyname.monkeyfinder-Signed.aab
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-android\com.companyname.monkeyfinder-Signed.apk
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-android\com.companyname.monkeyfinder-Signed.apk.idsig
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\build.props
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\adb.props
@@ -2115,6 +2107,14 @@ D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\Monke
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\MonkeyFinder.AssemblyInfoInputs.cache
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\MonkeyFinder.AssemblyInfo.cs
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\MonkeyFinder.csproj.CoreCompileInputs.cache
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-android\MonkeyFinder.runtimeconfig.json
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-android\MonkeyFinder.dll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-android\MonkeyFinder.pdb
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-android\com.companyname.monkeyfinder.apk
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-android\com.companyname.monkeyfinder.aab
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-android\com.companyname.monkeyfinder-Signed.aab
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-android\com.companyname.monkeyfinder-Signed.apk
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-android\com.companyname.monkeyfinder-Signed.apk.idsig
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\XamlC.stamp
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\MonkeyFinder.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\MonkeyFinder.pdb
@@ -2164,9 +2164,11 @@ D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\andro
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\Mono.Android.Export.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\Mono.Android.Export.pdb
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\Mono.Android.pdb
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\mscorlib.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\netstandard.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.AppContext.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Buffers.dll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Collections.Concurrent.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Collections.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Collections.Immutable.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Collections.NonGeneric.dll
@@ -2180,15 +2182,20 @@ D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\andro
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Configuration.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Console.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Core.dll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Data.Common.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Data.DataSetExtensions.dll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Data.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Diagnostics.Contracts.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Diagnostics.Debug.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Diagnostics.DiagnosticSource.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Diagnostics.FileVersionInfo.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Diagnostics.Process.dll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Diagnostics.StackTrace.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Diagnostics.TextWriterTraceListener.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Diagnostics.Tools.dll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Diagnostics.TraceSource.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Diagnostics.Tracing.dll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Drawing.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Drawing.Primitives.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Dynamic.Runtime.dll
@@ -2239,7 +2246,9 @@ D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\andro
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Numerics.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Numerics.Vectors.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.ObjectModel.dll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Private.CoreLib.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Private.DataContractSerialization.dll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Private.Uri.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Private.Xml.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Private.Xml.Linq.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Reflection.DispatchProxy.dll
@@ -2256,6 +2265,8 @@ D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\andro
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Resources.Writer.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.CompilerServices.Unsafe.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.CompilerServices.VisualC.dll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.dll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.Extensions.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.Handles.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.InteropServices.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.InteropServices.JavaScript.dll
@@ -2264,6 +2275,7 @@ D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\andro
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.Loader.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.Numerics.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.dll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Formatters.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Json.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Primitives.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Xml.dll
@@ -2305,6 +2317,7 @@ D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\andro
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Web.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Web.HttpUtility.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Windows.dll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Xml.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Xml.Linq.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Xml.ReaderWriter.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Xml.Serialization.dll
@@ -2463,6 +2476,7 @@ D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\andro
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\Xamarin.Kotlin.StdLib.Jdk8.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\Xamarin.KotlinX.Coroutines.Android.dll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\Xamarin.KotlinX.Coroutines.Core.Jvm.dll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\typemaps.armeabi-v7a.ll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\AndroidManifest.xml
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\AndroidManifest.xml
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\__environment__.txt
@@ -2471,6 +2485,7 @@ D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\andro
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\bin\mono.android.jar
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\static.flag
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\buildid.txt
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\environment.armeabi-v7a.ll
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\src\androidx\activity\ktx\R.java
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\src\androidx\activity\R.java
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\src\androidx\annotation\experimental\R.java
@@ -2949,6 +2964,12 @@ D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\andro
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\src\mono\MonoPackageManager_Resources.java
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\bin\packaged_resources
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\src\com\companyname\monkeyfinder\R.java
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\compressed_assemblies.armeabi-v7a.ll
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\typemaps.armeabi-v7a.o
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\environment.armeabi-v7a.o
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\compressed_assemblies.armeabi-v7a.o
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\jni_remap.armeabi-v7a.o
+D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\app_shared_libraries\armeabi-v7a\libxamarin-app.so
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\bin\classes.dex
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\bin\classes2.dex
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\stamp\_CleanIntermediateIfNeeded.stamp
@@ -2959,24 +2980,3 @@ D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\stamp
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\stamp\_GenerateJavaStubs.stamp
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\stamp\_GeneratePackageManagerJava.stamp
 D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\stamp\_ResolveLibraryProjectImports.stamp
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\mscorlib.dll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Collections.Concurrent.dll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Data.Common.dll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Data.dll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Diagnostics.StackTrace.dll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Diagnostics.TraceSource.dll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.dll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Private.CoreLib.dll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Private.Uri.dll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.dll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.Extensions.dll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Formatters.dll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\assets\System.Xml.dll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\typemaps.armeabi-v7a.ll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\environment.armeabi-v7a.ll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\compressed_assemblies.armeabi-v7a.ll
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\typemaps.armeabi-v7a.o
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\environment.armeabi-v7a.o
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\compressed_assemblies.armeabi-v7a.o
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\android\jni_remap.armeabi-v7a.o
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-android\app_shared_libraries\armeabi-v7a\libxamarin-app.so

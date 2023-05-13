@@ -29,13 +29,13 @@
     <AppXManifest Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-13T16:57:23.185</Modified>
+      <Modified>2023-05-13T19:00:18.481</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-05-13T16:54:46.589</Modified>
+      <Modified>2023-05-13T19:00:18.024</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.runtimeconfig.json">
       <PackagePath>MonkeyFinder.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.dll">
       <PackagePath>MonkeyFinder.dll</PackagePath>
-      <Modified>2023-05-13T16:57:21.280</Modified>
+      <Modified>2023-05-13T19:00:16.081</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\apphost.exe">
       <PackagePath>MonkeyFinder.exe</PackagePath>
-      <Modified>2023-05-13T16:57:21.445</Modified>
+      <Modified>2023-05-13T19:00:16.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jinglex\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.3\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -923,7 +923,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.deps.json">
       <PackagePath>MonkeyFinder.deps.json</PackagePath>
-      <Modified>2023-05-13T16:57:22.996</Modified>
+      <Modified>2023-05-13T19:00:18.300</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.59\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>

@@ -1,1 +1,0 @@
-D:\Dev Projects\School\MAUI_workshop\MonkeyFinder\MonkeyFinder.csproj;x64

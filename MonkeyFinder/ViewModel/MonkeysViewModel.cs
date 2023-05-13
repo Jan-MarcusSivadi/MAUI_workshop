@@ -15,8 +15,8 @@ public partial class MonkeysViewModel : BaseViewModel
         this.connectivity = connectivity;
         this.geolocation = geolocation;
 
-        CancellationToken cancellationToken = new();
-        GetMonkeysAsync().WaitAsync(cancellationToken);
+        //CancellationToken cancellationToken = new();
+        //GetMonkeysAsync().WaitAsync(cancellationToken);
     }
 
     [RelayCommand]
@@ -105,6 +105,7 @@ public partial class MonkeysViewModel : BaseViewModel
         finally
         {
             IsBusy = false;
+            IsRefreshing = false;
         }
     }
 }
