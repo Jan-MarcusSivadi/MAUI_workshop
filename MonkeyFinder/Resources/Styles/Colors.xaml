@@ -15,12 +15,11 @@
     <Color x:Key="LightBackground">#FAF9F8</Color>
     <Color x:Key="DarkBackground">#212120</Color>
 
-    <Color x:Key="LightBorder">#DDDDDD</Color>
-    <!--#edeceb-->
     <Color x:Key="LightBackground2">#FAF9F8</Color>
-    <Color x:Key="DarkBorder">#363636</Color>
-    <!--#2b2b2a-->
     <Color x:Key="DarkBackground2">#212120</Color>
+
+    <Color x:Key="LightBorder">#DDDDDD</Color>
+    <Color x:Key="DarkBorder">#424242</Color>
 
 
 
